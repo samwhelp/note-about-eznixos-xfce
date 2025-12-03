@@ -23,7 +23,7 @@
 
 | 微調腳本 |
 | ------- |
-| [EznixOS Xfce Config](https://github.com/samwhelp/eznixos-xfce-adjustment/tree/main/prototype/main/xfce-config) |
+| [EznixOS Xfce Config](https://github.com/samwhelp/eznixos-xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main) |
 | [Tool Config](https://github.com/samwhelp/eznixos-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
